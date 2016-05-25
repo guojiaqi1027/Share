@@ -4,6 +4,7 @@ import java.awt.Image;
 import java.util.ArrayList;
 /**
  * Share content posted by users
+ * 
  * @author jiaqiguo
  * 
  */

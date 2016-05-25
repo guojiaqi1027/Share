@@ -1,7 +1,11 @@
 package com.jiaqiguo.share.model;
 
 import java.awt.Image;
-
+/**
+ * 
+ * @author jiaqiguo
+ *
+ */
 public class User {
 	private String id;
 	private String nickName;
