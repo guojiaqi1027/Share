@@ -11,6 +11,10 @@ public class CreateUserService implements Service{
 	@Override
 	public ServiceResponse execute(ServiceRequest request) {
 		// TODO Auto-generated method stub
+<<<<<<< HEAD
 		return response;
+=======
+		return null;
+>>>>>>> 42072f615ac5597000b615c761244d3ce2c55eeb
 	}
 }

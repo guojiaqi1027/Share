@@ -24,7 +24,11 @@ public class User {
 	public static Builder build(){
 		return new Builder();
 	}
+<<<<<<< HEAD
 	public static class Builder{
+=======
+	static class Builder{
+>>>>>>> 42072f615ac5597000b615c761244d3ce2c55eeb
 		private String id;
 		private String nickName;
 		private String phoneNumber;
